@@ -30,7 +30,7 @@
 ;;; Code:
 
 (require 'url)
-(require 'ssl)
+(require 'tls)
 (require 'url-http)
 (require 'json)
 (require 'button)
